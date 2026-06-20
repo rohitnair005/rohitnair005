@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Rohit! 👋
 
-<!--
-**rohitnair005/rohitnair005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Electronics and Communication Engineering (ECE) student at BMS College of Engineering, Bengaluru, with a strong interest in Digital VLSI, RTL Design, and Verification.
 
-Here are some ideas to get you started:
+I enjoy designing digital systems using Verilog HDL, exploring computer architecture, and building projects that strengthen my understanding of frontend VLSI design. Alongside hardware design, I work with embedded systems and software tools to develop complete engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I Do
+
+*  **RTL Design & Digital Systems:** Designing and simulating digital circuits using Verilog HDL.
+*  **Digital VLSI:** Building a strong foundation in CMOS design, digital design, timing concepts, and verification.
+*  **Embedded Systems:** Working with microcontrollers, sensors, and hardware-software integration.
+*  **Programming & Automation:** Using Python, C, and scripting tools to support engineering workflows and simulations.
