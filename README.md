@@ -29,6 +29,7 @@ I enjoy designing digital systems using Verilog HDL, exploring computer architec
 ### EDA & Development Tools
 - Vivado
 - ModelSim / QuestaSim
+- Icarus Verilog
 - GTKWave
 - Keil uVision
 - Git
@@ -36,9 +37,18 @@ I enjoy designing digital systems using Verilog HDL, exploring computer architec
 ### Programming
 - Python
 - C
-- C++
 - MATLAB
+- C++
 
 ### Currently Learning
 - SystemVerilog
 - UVM
+
+---
+
+## 🏆 Achievements
+
+- NPTEL CMOS Digital VLSI Design
+  - Elite Silver Certificate
+  - Score: 82%
+  - Top 2% among 1708 learners
