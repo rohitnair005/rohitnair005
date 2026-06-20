@@ -24,7 +24,6 @@ I enjoy designing digital systems using Verilog HDL, exploring computer architec
 - Digital Electronics
 - CMOS Digital VLSI Design
 - Static Timing Analysis
-- Low Power Design
 
 ### EDA & Development Tools
 - Vivado
@@ -43,6 +42,8 @@ I enjoy designing digital systems using Verilog HDL, exploring computer architec
 ### Currently Learning
 - SystemVerilog
 - UVM
+- Low Power Design
+- TCL Scripting
 
 ---
 
@@ -52,3 +53,16 @@ I enjoy designing digital systems using Verilog HDL, exploring computer architec
   - Elite Silver Certificate
   - Score: 82%
   - Top 2% among 1708 learners
+---
+
+## 📂 Projects
+
+### UART with TX/RX FIFO
+- Designed a parameterized UART Transmitter and Receiver in Verilog HDL.
+- Implemented configurable Baud Rate Generator and FIFO buffers.
+- Verified functionality through behavioral simulation in Vivado.
+- Successfully demonstrated single-byte and multi-byte loopback communication.
+
+### Simple CPU
+- Currently in development.
+- Planned features include ALU, Register File, Program Counter, and Control Unit.
